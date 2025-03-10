@@ -19,3 +19,8 @@ Stored procedures, functions, and triggers
 Database-related projects
 SQL query optimization
 Process automation with SQL
+
+📫 Contact
+📩 Feel free to reach out via GitHub
+
+⚡ I’m passionate about the intersection of translation, artificial intelligence, and database management. I believe that learning how to create and manage databases and gaining knowledge in technology and AI is a valuable asset for a translator. This expertise facilitates communication with tech-oriented teams in software localization projects and proves essential in academic projects that require handling large amounts of data and leveraging new technologies.
